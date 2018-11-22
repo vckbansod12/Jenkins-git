@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "Hello Vikkkkkkkkkkkkkkky" 
+echo "Hello GIT" 
